@@ -199,7 +199,7 @@ export const certifications = [
     icon: "🏆",
     label: "3rd Place  Hackhit Live Coding Competition",
     date: "Feb 2026",
-    href: "https://photos.google.com", // ganti ke link Google Photos kemenangan lo
+    href: "https://www.linkedin.com/feed/update/urn:li:activity:7435172432707067905/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFSYUCcB-De2fxzGhbAMSWK3hUAZzrrkgAo", // ganti ke link Google Photos kemenangan lo
   },
   {
     icon: "📜",
@@ -235,7 +235,7 @@ export const certifications = [
     icon: "📕",
     label: "Dewa JavaScript  Self-Published Book",
     date: "Feb 2026",
-    href: "https://github.com/IbnuMuhadzdzib/dewa-javascript", // ganti ke repo bukunya
+    href: "https://github.com/IbnuMuhadzdzib/Dewa-JS-EBook", // ganti ke repo bukunya
   },
 ];
 
